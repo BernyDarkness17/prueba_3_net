@@ -1,0 +1,9 @@
+c:\users\alumno\source\repos\Prueba_3_Bernardita_Antilaf\Prueba_3_Bernardita_Antilaf\bin\Prueba_3_Bernardita_Antilaf.dll.config
+c:\users\alumno\source\repos\Prueba_3_Bernardita_Antilaf\Prueba_3_Bernardita_Antilaf\bin\Prueba_3_Bernardita_Antilaf.dll
+c:\users\alumno\source\repos\Prueba_3_Bernardita_Antilaf\Prueba_3_Bernardita_Antilaf\bin\Prueba_3_Bernardita_Antilaf.pdb
+c:\users\alumno\source\repos\Prueba_3_Bernardita_Antilaf\Prueba_3_Bernardita_Antilaf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alumno\source\repos\Prueba_3_Bernardita_Antilaf\Prueba_3_Bernardita_Antilaf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alumno\source\repos\Prueba_3_Bernardita_Antilaf\Prueba_3_Bernardita_Antilaf\obj\Debug\Prueba_3_Bernardita_Antilaf.csprojResolveAssemblyReference.cache
+c:\users\alumno\source\repos\Prueba_3_Bernardita_Antilaf\Prueba_3_Bernardita_Antilaf\obj\Debug\Prueba_3_Bernardita_Antilaf.csproj.CoreCompileInputs.cache
+c:\users\alumno\source\repos\Prueba_3_Bernardita_Antilaf\Prueba_3_Bernardita_Antilaf\obj\Debug\Prueba_3_Bernardita_Antilaf.dll
+c:\users\alumno\source\repos\Prueba_3_Bernardita_Antilaf\Prueba_3_Bernardita_Antilaf\obj\Debug\Prueba_3_Bernardita_Antilaf.pdb
